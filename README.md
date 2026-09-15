@@ -18,8 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
-
+![this is the final painting or product of my asphalt art project](finalPainting.png)
 ## Reflection
 
 1. Describe your project.
@@ -35,6 +34,8 @@ I am very proud of the beach painter as it took a while for me to understand but
 If i had the opportunity to change something about my project, i would likely find a way to clear all painters from the grid after the painting is finished. I say this because the scattered painters ruin the aesthetic of the art.
 
 4. How is this project related to STEAM (Science, Technology, Engineering, Art, and Mathematics)? Provide explicit examples from the project and details as possible. 
+
+This project is mainly in reltaion to the art and technology portion of steam as it required me to create a program with the purpose of creating digital art. Through this, there were some mathematic attributes within the parameters of the methods called in the main file.
 
 5. What SLOs did you demonstrate during completing this project?
 
