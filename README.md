@@ -39,3 +39,4 @@ This project is mainly in reltaion to the art and technology portion of steam as
 
 5. What SLOs did you demonstrate during completing this project?
 
+Throughout the completion of this project, I demonstrated critical thinking skills as anytime I ran into an error or a problem in the code, I found myself doing everything i knew how to do and asking peers to explain before turning to Mr. Aiello for help. I also demonstrated collaboration as I would help other classmates with their code whilst using mine as an example to reference, therefore collaborating with them to help them find the solution.
